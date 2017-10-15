@@ -1,0 +1,10 @@
+#tbox
+{
+    width: 100;
+}
+#result{
+    margin: 50px 100px 50px 100px;
+    width: 200px;
+    height: 100px;
+    border-style: groove
+}
