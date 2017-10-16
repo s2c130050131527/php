@@ -1,0 +1,27 @@
+#maindiv
+{
+    
+    border: 10px solid yellow;
+    width:300px;
+    height: auto;
+    
+}
+
+
+#tform
+{
+   
+    border: 5px solid red;
+    width: 150px;
+    height: 30%;
+    float:left;
+
+
+}
+
+#result
+{
+    border:5px  solid green;
+    width: 150px;
+    height: 30%
+}
